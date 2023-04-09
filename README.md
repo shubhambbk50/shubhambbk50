@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/free-vector/flat-minimal-technology-twitch-banner_23-2149091069.jpg)](https://github.com/shubhambbk50)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://github.com/shubhambbk50)
 <h1 align="center">Hi 👋, I'm Shubham Verma</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **a project which aims to improve the overall agriculture sector.**
 
 - 🌱 I’m currently learning **new technologies and exploring new ideas.**
