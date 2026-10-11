@@ -1,22 +1,33 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://github.com/shubhambbk50)
-<h1 align="center">Hi 👋, I'm Shubham Verma</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **a project which aims to improve the overall agriculture sector.**
+# Hi 👋, I'm Shubham Verma
 
-- 🌱 I’m currently learning **new technologies and exploring new ideas.**
+### Data Engineer | Microsoft Fabric | PySpark | SQL | Python
 
-- 👯 I’m looking to collaborate on **more innovative ideas which have the potential to give a positive value to the society and the nature.**
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 👨‍💻 All of my projects are available at [github.com/shubhambbk50](github.com/shubhambbk50)
+- 🔭 I'm currently working as a **Software Engineer at MAQ Software**, focused on Data Engineering.
+- 🌱 I'm continuously learning **Data Engineering, SQL, PySpark, Spark optimization, and modern data platforms**.
+- 🛠️ I work on building **scalable data pipelines, ETL/ELT workflows, and medallion architecture (Bronze, Silver, and Gold)**.
+- ☁️ I'm exploring **Microsoft Fabric, Lakehouse architecture, Delta Lake, and cloud-based data solutions**.
+- 👯 I'm open to collaborating on **data engineering projects and innovative ideas that create meaningful real-world impact**.
+- 💻 Explore my projects on [GitHub](https://github.com/shubhambbk50).
+- 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhambbk50/).
+- 💬 Ask me about **SQL, Python, PySpark, Microsoft Fabric, Data Pipelines, and ETL/ELT**.
+- 📫 Reach me at **shubhambbk50@gmail.com**.
 
-- 📝 I regularly write articles on [https://linkedin.com/in/shubhambbk50](https://linkedin.com/in/shubhambbk50)
+### 🛠️ Tech Stack
 
-- 💬 Ask me about **programming in C, C++, Python, Javascript**
+**Languages:** Python, SQL, C++, JavaScript
 
-- 📫 How to reach me **shubhambbk50@gmail.com**
+**Data Engineering:** PySpark, Apache Spark, ETL/ELT, Data Pipelines, Medallion Architecture
 
-- ⚡ Fun fact **I had closed all my tabs and shut down the system.**
+**Cloud & Data Platforms:** Microsoft Fabric, Lakehouse, Delta Lake
+
+**Tools & Practices:** Git, GitHub, Data Quality, Incremental Data Processing
+
+### ⚡ Fun Fact
+
+I turn raw data into meaningful insights — one pipeline at a time! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
