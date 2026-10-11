@@ -1,49 +1,143 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://github.com/shubhambbk50)
 # Hi 👋, I'm Shubham Verma
 
 ### Data Engineer | Microsoft Fabric | PySpark | SQL | Python
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-- 🔭 I'm currently working as a **Software Engineer at MAQ Software**, focused on Data Engineering.
-- 🌱 I'm continuously learning **Data Engineering, SQL, PySpark, Spark optimization, and modern data platforms**.
-- 🛠️ I work on building **scalable data pipelines, ETL/ELT workflows, and medallion architecture (Bronze, Silver, and Gold)**.
-- ☁️ I'm exploring **Microsoft Fabric, Lakehouse architecture, Delta Lake, and cloud-based data solutions**.
-- 👯 I'm open to collaborating on **data engineering projects and innovative ideas that create meaningful real-world impact**.
-- 💻 Explore my projects on [GitHub](https://github.com/shubhambbk50).
-- 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhambbk50/).
-- 💬 Ask me about **SQL, Python, PySpark, Microsoft Fabric, Data Pipelines, and ETL/ELT**.
-- 📫 Reach me at **shubhambbk50@gmail.com**.
-
-### 🛠️ Tech Stack
-
-**Languages:** Python, SQL, C++, JavaScript
-
-**Data Engineering:** PySpark, Apache Spark, ETL/ELT, Data Pipelines, Medallion Architecture
-
-**Cloud & Data Platforms:** Microsoft Fabric, Lakehouse, Delta Lake
-
-**Tools & Practices:** Git, GitHub, Data Quality, Incremental Data Processing
-
-### ⚡ Fun Fact
-
-I turn raw data into meaningful insights — one pipeline at a time! 🚀
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/shubh_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shubh_v" height="30" width="40" /></a>
-<a href="https://twitter.com/shubhambbk50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhambbk50" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubhambbk50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhambbk50" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17278264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17278264/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shubh50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubh50" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shubhambbk50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shubhambbk50" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhambbk50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhambbk50" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shubhambbk50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhambbk50" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C9A7&height=180&section=header&text=Building%20Reliable%20Data%20Pipelines&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Data Engineering Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhambbk50&show_icons=true&locale=en&layout=compact" alt="shubhambbk50" /></p>
+- 🔭 Working as a **Software Engineer at MAQ Software**, focused on Data Engineering.
+- 🛠️ Building data pipelines and ETL/ELT workflows using **Microsoft Fabric, PySpark, and SQL**.
+- 🏗️ Working with **Lakehouse architecture, Medallion Architecture (Bronze, Silver, Gold), and incremental data processing**.
+- 🌱 Continuously improving my knowledge of **Apache Spark, SQL optimization, data quality, and scalable data systems**.
+- 👯 Open to collaborating on **Data Engineering projects and technology-driven ideas that create real-world impact**.
+- 💻 Explore my projects: [GitHub](https://github.com/shubhambbk50)
+- 📝 Connect with me: [LinkedIn](https://www.linkedin.com/in/shubhambbk50/)
+- 💬 Ask me about **SQL, Python, PySpark, Microsoft Fabric, ETL/ELT, and data pipelines**.
+- 📫 Reach me at **shubhambbk50@gmail.com**
+- ⚡ Fun fact: I turn raw data into reliable pipelines, one transformation at a time! 🚀
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambbk50&" alt="shubhambbk50" /></p>
+<br clear="all"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### Data Engineering & Processing
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark and PySpark" width="45" height="45"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/microsoftfabric/0078D4" alt="Microsoft Fabric" width="45" height="45"/>
+  </a>
+  <a href="https://delta.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/delta/003366" alt="Delta Lake" width="45" height="45"/>
+  </a>
+</p>
+
+**Core concepts:** ETL/ELT · Data Pipelines · Medallion Architecture · Lakehouse · Incremental Loading · Data Quality · Spark Optimization
+
+### Databases & Querying
+
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="Microsoft SQL Server" width="45" height="45"/>
+  </a>
+</p>
+
+**Core concepts:** SQL · Joins · Window Functions · Query Optimization · Data Modeling
+
+### Development Tools
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="45" height="45"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45" height="45"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/fabric/data-engineering/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Microsoft Azure" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shubhambbk50/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/shubhambbk50" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:shubhambbk50@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://leetcode.com/shubhambbk50/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/shubhambbk50" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/shubh50" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://stackoverflow.com/users/17278264/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/shubhambbk50" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://codepen.io/shubh_v" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
+  <a href="https://twitter.com/shubhambbk50" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhambbk50&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shubham's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambbk50&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shubhambbk50&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhambbk50&label=Profile%20Views&color=0078D4&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+<p align="center">
+  <b>🚀 Building better data systems, one pipeline at a time.</b>
+</p>
